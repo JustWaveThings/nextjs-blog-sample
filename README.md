@@ -1,2 +1,1 @@
-# nextjs-blog-sample
-Learning more about next.js features by building a simple blog app.
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
